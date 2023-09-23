@@ -1,0 +1,3 @@
+Let us assume that we are building an app that helps users maintain a list of their cars.
+They will be able to add new cars, update existing cars, and even remove cars that they no longer possess.
+This application will be available for both Android and iOS devices and also as a web application
